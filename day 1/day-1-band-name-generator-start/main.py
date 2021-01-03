@@ -8,4 +8,3 @@ petname = input("Enter your pet name\n")
 bandname = city + " " + petname
 # 5. Make sure the input cursor shows on a new line, see the example at:
 print("Well done!, Your band name is "+ bandname)
- # https://band-name-generator-end.appbrewery.repl.run/
