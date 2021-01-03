@@ -1,1 +1,1 @@
-<img src = "https://www.wevideo.com/view/1990178778"/>
+<img src = "https://www.wevideo.com/view/1990178778" alt = ""/>
